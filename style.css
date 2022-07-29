@@ -1,0 +1,24 @@
+canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+}
+#container {
+  position: relative;
+}
+#container canvas, #sheet {
+  position: absolute;
+}
+
+
+.navbar {
+  z-index: 1;
+}
+
+#sheet {
+  top: 50vh;
+  left: 50%;
+  background-color: white;
+  z-index: 2000;
+}
