@@ -1,8 +1,7 @@
 import "./style.css";
-import * as THREE from "three";
+import * as THREE from "three"
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import { InteractionManager } from "three.interactive";
-import { MathUtils } from "three";
 import {education, educationButton} from "./Objects/Education";
 import {skills, skillsButton} from "./Objects/Skills";
 import centerCamera from "./Functions/CenterCamera";
