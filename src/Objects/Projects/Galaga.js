@@ -13,7 +13,7 @@ galaga.hoverColor = 0x83EBF4
 galaga.position.set(-62.5, 25, 10);
 galaga.originalCoords = {x: -62.5, y: 25, z: 10}
 galaga.halting = false;
-galaga.innerHTML = `<div class="card" style="width: 40rem;">
+galaga.innerHTML = `<div class="card" style="width: 30rem;">
 <img src="./pics/galaga-pic.png" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">Space Shooters Extravaganza</h5>

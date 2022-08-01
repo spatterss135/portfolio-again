@@ -14,7 +14,7 @@ mushrx.hoverColor = 0xAE6BE9
 mushrx.position.set(-50, 50, 10);
 mushrx.originalCoords = {x: -50, y: 50, z: 10}
 mushrx.halting = false;
-mushrx.innerHTML = `<div class="card" style="width: 50rem;">
+mushrx.innerHTML = `<div class="card" style="width: 30rem;">
 <img src="./pics/mushrx-pic.png" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">Mushrx</h5>

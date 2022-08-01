@@ -13,7 +13,7 @@ social.hoverColor = 0x86F273
 social.position.set(-37.5, 25, 10);
 social.originalCoords = {x: -37.5, y: 25, z: 10}
 social.halting = false;
-social.innerHTML = `<div class="card" style="width: 50rem;">
+social.innerHTML = `<div class="card" style="width: 30rem;">
 <img src="./pics/social-app-pic.png" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">Social App</h5>
