@@ -15,7 +15,7 @@ mushrx.position.set(-50, 50, 10);
 mushrx.originalCoords = {x: -50, y: 50, z: 10}
 mushrx.halting = false;
 mushrx.innerHTML = `<div class="card" style="width: 50rem;">
-<img src="../dist/pics/mushrx-pic.png" class="card-img-top" alt="...">
+<img src="./pics/mushrx-pic.png" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">Mushrx</h5>
   <p class="card-text">The hardest part of foraging mushrooms is knowing where to start. Mushrx shows you historical data and cross

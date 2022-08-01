@@ -17,7 +17,7 @@ education.innerHTML = `<div class="container">
   <div class="row g-0 my-auto">
     <div class="col-md-4 my-auto">
     <a href="https://www.lawrence.edu/">
-      <img src="../dist/pics/lawrence.png" class="img-fluid rounded-start mx-auto" alt="...">
+      <img src="./pics/lawrence.png" class="img-fluid rounded-start mx-auto" alt="...">
       </a>
     </div>
     <div class="col-md-8">
@@ -35,7 +35,7 @@ education.innerHTML = `<div class="container">
   <div class="row g-0 my-auto">
     <div class="col-md-4 my-auto">
     <a href="https://www.wisc.edu/">
-      <img src="../dist/pics/madison.png" class="img-fluid rounded-start mx-auto" alt="...">
+      <img src="./pics/madison.png" class="img-fluid rounded-start mx-auto" alt="...">
       </a>
     </div>
     <div class="col-md-8">
