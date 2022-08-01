@@ -14,7 +14,7 @@ galaga.position.set(-62.5, 25, 10);
 galaga.originalCoords = {x: -62.5, y: 25, z: 10}
 galaga.halting = false;
 galaga.innerHTML = `<div class="card" style="width: 40rem;">
-<img src="../dist/pics/galaga-pic.png" class="card-img-top" alt="...">
+<img src="./pics/galaga-pic.png" class="card-img-top" alt="...">
 <div class="card-body">
   <h5 class="card-title">Space Shooters Extravaganza</h5>
   <p class="card-text">Earth is under attack by the Glorgons! Protect humanity at all costs. Built using Phaser.js, a comprehensive library for creating video games in JavaScript.</p>
