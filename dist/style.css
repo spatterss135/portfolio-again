@@ -1,0 +1,40 @@
+body {
+  overflow: hidden;
+}
+
+
+
+canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  
+}
+#container {
+  position: relative;
+}
+#container canvas, #sheet {
+  position: absolute;
+}
+
+
+.navbar {
+  z-index: 1;
+}
+
+#sheet {
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  background: none;
+  z-index: 2;
+}
+
+.skills {
+  background-color: rgb(236, 236, 237);
+}
+#contact-form {
+  background-color: rgb(236, 236, 237);
+  padding: 1rem;
+}
